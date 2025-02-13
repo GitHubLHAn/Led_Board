@@ -1,5 +1,4 @@
-- Phiên bản mạch led nâng cấp số lượng led trên mạch thành 23 led
+- Phiên bản mạch led thiết kế ban đầu với 17 led
 
-- Ứng dụng trong Yody và đợt sản xuất 400 mạch KV3 mở rộng.
+- Mạch màu xanh lá, ứng dụng trong đợt demo 20 robot tại kv1.
 
-- Có bao gồm code dùng test Jig
