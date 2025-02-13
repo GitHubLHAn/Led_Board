@@ -1,0 +1,1 @@
+led_agv_30kg_v1\startup_stm32f103xb.o: startup_stm32f103xb.s

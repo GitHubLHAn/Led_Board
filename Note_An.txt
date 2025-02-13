@@ -1,5 +1,3 @@
-- Phiên bản mạch led nâng cấp số lượng led trên mạch thành 23 led
+- Phiên bản mạch led dùng cho robot chở hàng 30 Kg, chưa ứng dụng vào thực tế.
 
-- Ứng dụng trong Yody và đợt sản xuất 400 mạch KV3 mở rộng.
-
-- Có bao gồm code dùng test Jig
+- Giữ nguyên firmware của led board version 3, chỉ khác ở số lượng led trên mạch tăng lên 
