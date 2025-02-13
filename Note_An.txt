@@ -1,0 +1,5 @@
+- Phiên bản mạch led nâng cấp số lượng led trên mạch thành 23 led
+
+- Ứng dụng trong Yody và đợt sản xuất 400 mạch KV3 mở rộng.
+
+- Có bao gồm code dùng test Jig

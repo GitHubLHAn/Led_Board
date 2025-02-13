@@ -1,0 +1,27 @@
+--cpu Cortex-M3
+"led_board_v3_code_test\startup_stm32f103xb.o"
+"led_board_v3_code_test\main.o"
+"led_board_v3_code_test\stm32f1xx_it.o"
+"led_board_v3_code_test\stm32f1xx_hal_msp.o"
+"led_board_v3_code_test\rs485.o"
+"led_board_v3_code_test\scan_led.o"
+"led_board_v3_code_test\uart.o"
+"led_board_v3_code_test\stm32f1xx_hal_gpio_ex.o"
+"led_board_v3_code_test\stm32f1xx_hal_tim.o"
+"led_board_v3_code_test\stm32f1xx_hal_tim_ex.o"
+"led_board_v3_code_test\stm32f1xx_hal.o"
+"led_board_v3_code_test\stm32f1xx_hal_rcc.o"
+"led_board_v3_code_test\stm32f1xx_hal_rcc_ex.o"
+"led_board_v3_code_test\stm32f1xx_hal_gpio.o"
+"led_board_v3_code_test\stm32f1xx_hal_dma.o"
+"led_board_v3_code_test\stm32f1xx_hal_cortex.o"
+"led_board_v3_code_test\stm32f1xx_hal_pwr.o"
+"led_board_v3_code_test\stm32f1xx_hal_flash.o"
+"led_board_v3_code_test\stm32f1xx_hal_flash_ex.o"
+"led_board_v3_code_test\stm32f1xx_hal_exti.o"
+"led_board_v3_code_test\stm32f1xx_hal_uart.o"
+"led_board_v3_code_test\system_stm32f1xx.o"
+--strict --scatter "Led_board_v3_Code_Test\Led_board_v3_Code_Test.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "Led_board_v3_Code_Test.map" -o Led_board_v3_Code_Test\Led_board_v3_Code_Test.axf
